@@ -1,3 +1,3 @@
-#Simple real time chat console application
+Simple real time chat console application
 
-#I Made this aplication while I learned how work with sockets 
+##I Made this aplication while I learned how work with sockets 
